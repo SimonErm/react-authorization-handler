@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test ProviderHoc [allowedRoles]Target should be rendered by role 1`] = `
+<div>
+  <h1>
+    isGranted
+  </h1>
+</div>
+`;
+
+exports[`Test ProviderHoc [allowedRoles]Target should not be rendered by role 1`] = `null`;
+
+exports[`Test ProviderHoc [requiredPermission]Target should be rendered by permission 1`] = `
+<div>
+  <h1>
+    isGranted
+  </h1>
+</div>
+`;
+
+exports[`Test ProviderHoc [requiredRole]Target should be rendered by role 1`] = `
+<div>
+  <h1>
+    isGranted
+  </h1>
+</div>
+`;
+
+exports[`Test ProviderHoc [requiredRole]Target should not be rendered by role 1`] = `null`;
+
+exports[`Test ProviderHoc Target should be Fallback 1`] = `
+<div>
+  <h1>
+    Fallback
+  </h1>
+</div>
+`;
+
+exports[`Test ProviderHoc Target should be null 1`] = `null`;
