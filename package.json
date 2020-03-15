@@ -1,5 +1,5 @@
 {
-  "name": "react-authorization",
+  "name": "react-authorization-handler",
   "version": "0.0.1",
   "description": "An easy to use authorization library for react",
   "main": "lib/index.js",

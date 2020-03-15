@@ -5,7 +5,7 @@ Since it just dependes on reacts context and hooks its very lightweight.
 
 ## Install
 ```sh
-npm install react-auhtorization
+npm install react-auhtorization-handler
 ```
 
 ## Getting startet
